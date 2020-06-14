@@ -1,12 +1,18 @@
 <html>
   <head>
-    <title>This be a title</title>
     <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>This be a title</title>
         <meta name="description" content="You can write your description">
         <meta name="viewport" content="width=device-width"></head>
   <body>
     <p>Hello there, this be a website. And why the fuck is any title not visible?</p>
+    <ul>
+      <li>Lets</li>
+      <li>make</li>
+      <li>a</li>
+      <li>list</li>
+    </ul>
   </body>
   </html>
   
